@@ -1,0 +1,32 @@
+{
+    "status": "ok",
+    "totalResults": 2,
+    "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "YouTube"
+        },
+        "author": null,
+        "title": "Stanley Cup Final Game 3 Highlights | Avalanche vs. Lightning - June 20, 2022 - SPORTSNET",
+        "description": null,
+        "url": "https://www.youtube.com/supported_browsers?next_url=https:%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dpmh7mq8Day0",
+        "urlToImage": "https://rb.gy/nnmmpd",
+        "publishedAt": "2022-06-21T03:44:32Z",
+        "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more\r\nRemind me later"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "YouTube"
+        },
+        "author": null,
+        "title": "Steven Stamkos Takes Feed From Nikita Kucherov And Fires Home Wrist Shot - SPORTSNET",
+        "description": "Watch as Tampa Bay Lightning captain Steven Stamkos fires a wrist shot past Colorado Avalanche goaltender Darcy Kuemper for his 42nd career playoff goal.",
+        "url": "https://www.youtube.com/watch?v=Q56W-uiWaGI",
+        "urlToImage": "https://i.ytimg.com/vi/Q56W-uiWaGI/maxresdefault.jpg",
+        "publishedAt": "2022-06-21T02:08:24Z",
+        "content": null
+      }
+    ]
+  }
